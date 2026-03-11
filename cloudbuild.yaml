@@ -40,4 +40,4 @@ options:
 substitutions:
   _SERVICE_NAME: flask-app
   _AR_REPO_NAME: flask-app-repo
-  _LOCATION: YOUR_GCP_REGION # e.g., us-central1
+  _LOCATION: us-central1 # e.g., us-central1
