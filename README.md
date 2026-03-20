@@ -1,4 +1,4 @@
-#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
+
 # DevOps Capstone Project: Containerized Flask Application on Google Cloud Platform
 
 This project demonstrates a complete DevOps workflow for a containerized Python Flask application deployed on Google Cloud Platform (GCP). It covers continuous integration/continuous deployment (CI/CD), artifact management, serverless deployment, API management, database integration, and comprehensive monitoring and logging.
